@@ -1,5 +1,5 @@
 - 영남대학교 컴퓨터학부 컴퓨터공학전공
-🫳🫳 복복
+-->🫳🫳 복복
 
 <!--
 **parkjinacosmos/parkjinacosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
